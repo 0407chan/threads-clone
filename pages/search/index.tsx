@@ -1,10 +1,10 @@
 import React from "react";
 import { SafeAreaView, Text } from "react-native";
 
-export default function Auth() {
+export default function Search() {
   return (
     <SafeAreaView>
-      <Text>auth</Text>
+      <Text>Search</Text>
     </SafeAreaView>
   );
 }
