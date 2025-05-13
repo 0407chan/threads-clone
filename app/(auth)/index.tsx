@@ -1,5 +1,1 @@
-import Auth from "@/pages/auth";
-
-export default function AuthS() {
-  return <Auth />;
-}
+export { default } from "@/pages/auth";

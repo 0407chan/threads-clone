@@ -1,5 +1,1 @@
-import Username from "@/pages/auth/username";
-
-export default function UsernameS() {
-  return <Username />;
-}
+export { default } from "@/pages/auth/username";
